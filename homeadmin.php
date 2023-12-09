@@ -26,6 +26,8 @@
         nav h2{
             display: flex;
             color: tomato;
+            align-self: center;
+
         }
         nav a{
             display: flex;
